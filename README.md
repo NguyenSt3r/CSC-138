@@ -2,7 +2,7 @@
 
 This repositories hold serveral projects done for CSUS, Sacramento CSC 138 course.
 
-SMTP Client: establish SMTP connection with an email server and allows the user to send emails
+MailClient: establish SMTP connection with an email server and allows the user to send emails
 
 TCPClient: established a port with TCP connection, where user can send a message to a server port
 
